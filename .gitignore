@@ -1,2 +1,6 @@
 
 gb_ManageEngine_ServiceDesk_Plus_detect.nasl
+gb_ManageEngine_ServiceDesk_Plus_detect.nasl
+exclude_files_rsync.txt
+gb_ManageEngine_ServiceDesk_Plus_detect.nasl
+LICENSE
